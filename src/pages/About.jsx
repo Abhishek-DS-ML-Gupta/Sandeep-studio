@@ -121,7 +121,7 @@ function About() {
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="text-center p-6 bg-gray-800/30 rounded-xl border border-gray-700/30 hover:border-purple-500/50 transition-all duration-300">
-              <div className="text-4xl font-bold text-purple-400 mb-2">10+</div>
+              <div className="text-4xl font-bold text-purple-400 mb-2">33+</div>
               <div className="text-gray-300">Years of Experience</div>
             </div>
             
